@@ -90,7 +90,7 @@ const ServicesSection = ({ active = true }: { active?: boolean }) => {
       title: "Maintenance & Repairs",
       description: "Ongoing maintenance and repair services.",
       images: [
-        { image: "/maintenance/m1.jpg", alt: "Maintenance & Repairs" },
+        { image: "/maintenance/m1.png", alt: "Maintenance & Repairs" },
         { image: "/maintenance/m2.webp", alt: "Maintenance & Repairs" },
         { image: "/maintenance/m3.webp", alt: "Maintenance & Repairs" },
       ],
@@ -172,3 +172,4 @@ const ServicesSection = ({ active = true }: { active?: boolean }) => {
 };
 
 export default ServicesSection;
+
