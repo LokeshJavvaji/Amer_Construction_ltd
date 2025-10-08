@@ -86,7 +86,7 @@ export default function AboutUs() {
         </div>
         <div className="flex justify-center py-3">
           <div className="relative w-full h-[300px] md:w-[800px] md:h-[600px] lg:w-[1200px] lg:h-[700px]">
-            <Image src="/s1.webp" alt="Construction experts at work" fill className="object-cover" />
+            <Image src="/s1.jpg" alt="Construction experts at work" fill className="object-cover" />
           </div>
         </div>
       </section>
@@ -129,4 +129,5 @@ export default function AboutUs() {
 </section>
 </main>
 );
+
 }
