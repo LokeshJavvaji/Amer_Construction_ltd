@@ -5,7 +5,7 @@ export default function ConstructionProjectManagementServices() {
   const data = [
     {
       type: "",
-      image: '/project/p9.jpg',
+      image: '/project/p9.png',
       video:'',
       content: [
         { 
@@ -62,3 +62,4 @@ export default function ConstructionProjectManagementServices() {
     <ServicesPage data={data} />
   )
 }
+
