@@ -38,7 +38,7 @@ export default function ConstructionServices() {
       readTime: "2 mins",
     },
     {
-      imageSrc: "/maintenance/m1.jpg",
+      imageSrc: "/maintenance/m1.png",
       title: "Maintenance and Repair Services",
       description: "Our team provides ongoing maintenance and repair services to ensure your building remains safe and functional.",
       date: "October 15, 2023",
@@ -71,3 +71,4 @@ export default function ConstructionServices() {
     </section>
   );
 }
+
